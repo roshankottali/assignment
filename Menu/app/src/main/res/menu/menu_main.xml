@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.menu.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item android:id="@+id/myid" android:title="menu2"></item>
+    <item android:id="@+id/myid2" android:title="menu3"></item>
+    <item android:id="@+id/myid3" android:title="menu4"></item>
+</menu>
